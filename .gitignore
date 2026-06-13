@@ -1,0 +1,43 @@
+# Visual Studio
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+
+# NuGet
+packages/
+*.nupkg
+*.snupkg
+.nuget/
+
+# Configuration files
+appsettings.local.json
+whatsapp-config.local.json
+*.local.*
+
+# Logs
+logs/
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Runtime
+node_modules/
+.env
+.env.local
