@@ -1,0 +1,24 @@
+🛒 Purchase Order Confirmation
+━━━━━━━━━━━━━━━━━━━━━━━━━
+
+*PO Number:* {PO_NUMBER}
+*Vendor:* {VENDOR_NAME}
+*Date:* {PO_DATE}
+
+📦 Order Details:
+Items Count: {ITEMS_COUNT}
+Total Amount: {TOTAL_AMOUNT} {CURRENCY}
+
+📅 Expected Delivery: {DELIVERY_DATE}
+
+📍 Delivery Address:
+{DELIVERY_ADDRESS}
+
+💳 Payment Terms: {PAYMENT_TERMS}
+
+👤 Contact Person: {CONTACT_NAME}
+
+━━━━━━━━━━━━━━━━━━━━━━━━━
+Please confirm receipt of this Purchase Order.
+
+*Notes:* {NOTES}
